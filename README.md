@@ -38,6 +38,7 @@ currently_learning:
   - Contribute to more Open Source projects
   - Master multi-cloud deployments
   - Build decentralized applications
+  - Get good at OpenStack
 ```
 
 ---
