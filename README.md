@@ -1,7 +1,7 @@
 # Hi there, I'm Mahmoud Kebbi! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%F0%9F%9A%80;Blockchain+Developer+%E2%9B%93;Cloud+Architect+%E2%98%81%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%92%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%F0%9F%9A%80;Blockchain+Developer+%E2%9B%93;Cloud+Architect+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <div align="center">
