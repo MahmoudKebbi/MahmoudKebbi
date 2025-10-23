@@ -34,11 +34,6 @@ currently_learning:
   - Web3 Development
   - Infrastructure as Code
   
-2025_goals:
-  - Contribute to more Open Source projects
-  - Master multi-cloud deployments
-  - Build decentralized applications
-  - Get good at OpenStack
 ```
 
 ---
