@@ -92,12 +92,7 @@ currently_learning:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<!-- Animated GitHub Stats -->
-<img width="49%" height="195px" src="https://streak-stats.demolab.com/?user=MahmoudKebbi" alt="Mahmoud Kebbi github stats" /> 
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudKebbi&layout=compact&hide_border=true&title_color=00D9FF&text_color=00D9FF&bg_color=0d1117" />
-
+  <img src="https://streak-stats.demolab.com/?user=MahmoudKebbi&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 </div>
 
 <!-- GitHub Activity Graph -->
