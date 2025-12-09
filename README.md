@@ -1,3 +1,4 @@
+````md
 # Hi there, I'm Mahmoud Kebbi! 👋
 
 <div align="center">
@@ -22,7 +23,6 @@ located_in: Beirut, Lebanon
 current_job: Junior DevOps Engineer
 education: Computer Engineering @ Lebanese American University
 
-
 fields_of_interests:
   - Cloud Computing & Infrastructure
   - Blockchain & Smart Contracts
@@ -34,13 +34,14 @@ currently_learning:
   - Web3 Development
   - Infrastructure as Code
   
-```
+````
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
 ### 💼 Core Skills
+
 <div align="left">
   <img src="https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Information_Security-FF5722?style=for-the-badge&logo=security&logoColor=white" />
@@ -54,6 +55,7 @@ currently_learning:
 </div>
 
 ### 💻 Programming Languages
+
 <div align="left">
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -66,6 +68,7 @@ currently_learning:
 </div>
 
 ### 🛠️ Tools & Frameworks
+
 <div align="left">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -92,17 +95,25 @@ currently_learning:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MahmoudKebbi&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+
+<!-- Animated GitHub Stats -->
+
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MahmoudKebbi&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="Mahmoud Kebbi github stats" /> 
+
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudKebbi&layout=compact&hide_border=true&title_color=00D9FF&text_color=00D9FF&bg_color=0d1117" />
+
 </div>
 
 <!-- GitHub Activity Graph -->
+
 <div align="center">
-  <img src="[https://github-readme-activity-graph.vercel.app/graph?username=MahmoudKebbi&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Mahmoud's%20Contribution%20Activity" width="100%](https://streak-stats.demolab.com/?user=MahmoudKebbi&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudKebbi&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Mahmoud's%20Contribution%20Activity" width="100%"/>
 </div>
 
 <!-- Streak Stats -->
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MahmoudKebbi&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
+  <img src="https://streak-stats.demolab.com/?user=MahmoudKebbi&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
 </div>
 
 ---
@@ -111,43 +122,50 @@ currently_learning:
 
 <div align="center">
 
-[![AWS Solutions Architect](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-[![Docker Professional](https://img.shields.io/badge/Docker-Foundations%20Professional-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
-[![Network Automation](https://img.shields.io/badge/Arista-Network%20Automation%20Professional-1BA0D7?style=for-the-badge&logo=arista&logoColor=white)](https://arista.com)
+[![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)]()
+[![Docker Foundations Professional](https://img.shields.io/badge/Docker-Foundations%20Professional-2CA5E0?style=for-the-badge\&logo=docker\&logoColor=white)]()
+[![Arista Network Automation Professional](https://img.shields.io/badge/Arista-Network%20Automation%20Professional-1BA0D7?style=for-the-badge\&logo=arista\&logoColor=white)]()
+[![Data Engineering Associate](https://img.shields.io/badge/DataCamp-Data%20Engineering%20Associate-03EF62?style=for-the-badge\&logo=datacamp\&logoColor=white)]()
+[![IT Security Specialist](https://img.shields.io/badge/LinkedIn-IT%20Security%20Specialist-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]()
+[![GitHub Career Essentials](https://img.shields.io/badge/GitHub-Career%20Essentials%20Professional-181717?style=for-the-badge\&logo=github\&logoColor=white)]()
+[![Nvidia Deep Learning](https://img.shields.io/badge/NVIDIA-Fundamentals%20of%20Deep%20Learning-76B900?style=for-the-badge\&logo=nvidia\&logoColor=white)]()
 
 </div>
 
 <div align="center">
 
 <!-- Interactive Trophy Display -->
+
 <img src="https://github-profile-trophy.vercel.app/?username=MahmoudKebbi&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Commit,Stars,Followers,Repositories,MultipleLang,PullRequest,Reviews,Issues" />
 
 <!-- GitHub Contribution Metrics -->
+
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  **🎯 Contribution Stats**
-  
+
+**🎯 Contribution Stats**
+
   <img src="https://github-contributor-stats.vercel.app/api?username=MahmoudKebbi&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-  
+
 </td>
 <td width="50%" align="center">
 
-  **⚡ Performance Metrics**
-  
-  ![](https://github-readme-stats.vercel.app/api?username=MahmoudKebbi&show_icons=true&hide=stars&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF)
-  
+**⚡ Performance Metrics**
+
+![](https://github-readme-stats.vercel.app/api?username=MahmoudKebbi\&show_icons=true\&hide=stars\&count_private=true\&theme=dark\&hide_border=true\&bg_color=0d1117\&title_color=00D9FF)
+
 </td>
 </tr>
 </table>
 
 <!-- Interactive Buttons -->
+
 <details>
 <summary>🎮 Developer Dashboard</summary>
 
-
 ### 💻 Real-time Coding Stats
+
 ```yaml
 ⏰ Active Hours: Peak performance 14:00-22:00 GMT+3
 🔥 Current Streak: Building consistently  
@@ -157,15 +175,17 @@ currently_learning:
 ```
 
 ### 🌟 Achievement Unlocked
+
 <div align="center">
-  
+
 [![An image of @mahmoudkebbi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahmoudkebbi)](https://holopin.io/@mahmoudkebbi)
-  
+
 </div>
 
 </details>
 
 <!-- Dynamic Stats Cards -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Building%20the%20Future%20⚡&fontSize=30&fontColor=fff&animation=twinkling"/>
 </div>
@@ -201,32 +221,38 @@ timeline
 ## 🎯 Featured Projects
 
 ### 🔋 [Peer-to-Peer Energy Trading Platform](https://github.com/MahmoudKebbi)
+
 **Tech Stack:** `AWS` `Terraform` `Solidity` `Ethereum` `Express.js` `Python`
-- ⚡ 90% reduction in environment setup time with Terraform
-- 🚀 Backend scaling to 1,000+ requests/second
-- ⛓️ Smart contracts for automated energy trading
-- 💬 Real-time chat for trade negotiations
+
+* ⚡ 90% reduction in environment setup time with Terraform
+* 🚀 Backend scaling to 1,000+ requests/second
+* ⛓️ Smart contracts for automated energy trading
+* 💬 Real-time chat for trade negotiations
 
 ### 🤖 [Programmable Matter Simulation](https://github.com/MahmoudKebbi)
+
 **Tech Stack:** `Python` `Pygame` `Cython`
-- 🎯 A* pathfinding for autonomous unit coordination
-- ⚡ 0.8-second average reconfiguration times
-- 🎨 Interactive visualization with Pygame
-- 🔧 Cython optimization for performance
+
+* 🎯 A* pathfinding for autonomous unit coordination
+* ⚡ 0.8-second average reconfiguration times
+* 🎨 Interactive visualization with Pygame
+* 🔧 Cython optimization for performance
 
 ### 🏓 [Table Tennis Club Management System](https://github.com/MahmoudKebbi)
+
 **Tech Stack:** `React` `Redux Toolkit` `TailwindCSS` `Firebase`
-- 📅 Real-time table booking system
-- 👥 Member management with role-based access
-- 📊 Admin dashboards and analytics
-- 🔐 Firebase authentication integration
+
+* 📅 Real-time table booking system
+* 👥 Member management with role-based access
+* 📊 Admin dashboards and analytics
+* 🔐 Firebase authentication integration
 
 ---
 
 ## 🎨 GitHub Activity
 
-
 <!-- Interactive Contribution Calendar -->
+
 <div align="center">
   <img src="https://ghchart.rshah.org/00D9FF/MahmoudKebbi" alt="Mahmoud's GitHub Contribution Calendar" />
 </div>
@@ -238,16 +264,19 @@ timeline
 <br>
 
 <!-- Detailed Language Stats -->
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudKebbi&langs_count=10&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=00D9FF" />
 </div>
 
 <!-- Wakatime Stats -->
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MahmoudKebbi&theme=dark&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=00D9FF" />
 </div>
 
 <!-- GitHub Metrics -->
+
 <div align="center">
   <img src="https://metrics.lecoq.io/MahmoudKebbi?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Asia%2FBeirut" />
 </div>
@@ -259,21 +288,24 @@ timeline
 ## 🌟 What I'm Working On
 
 <div align="center">
-  
+
 **🔭 Current Focus:**
-- Building scalable microservices architectures
-- Developing decentralized applications (dApps)
-- Contributing to open-source DevOps tools
+
+* Building scalable microservices architectures
+* Developing decentralized applications (dApps)
+* Contributing to open-source DevOps tools
 
 **🌱 Learning:**
-- Advanced Kubernetes patterns
-- Multi-cloud deployment strategies
-- Zero-knowledge proofs in blockchain
+
+* Advanced Kubernetes patterns
+* Multi-cloud deployment strategies
+* Zero-knowledge proofs in blockchain
 
 **👯 Looking to Collaborate:**
-- Cloud-native applications
-- Blockchain infrastructure projects
-- DevOps automation tools
+
+* Cloud-native applications
+* Blockchain infrastructure projects
+* DevOps automation tools
 
 </div>
 
@@ -284,9 +316,10 @@ timeline
 <div align="center">
 
 🏓 **Table Tennis Enthusiast**
-- Competitive player at Al Riyadi Club Beirut
-- Founder & Head Coach at IAR Association Table Tennis Club
-- Building community through sports and coaching
+
+* Competitive player at Al Riyadi Club Beirut
+* Founder & Head Coach at IAR Association Table Tennis Club
+* Building community through sports and coaching
 
 </div>
 
@@ -298,8 +331,8 @@ timeline
 
 I'm always excited to collaborate on innovative projects and discuss the latest in DevOps, blockchain, and cloud technologies!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-kebbi)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoud.kebbi180@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mahmoud-kebbi)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mahmoud.kebbi180@gmail.com)
 
 ---
 
@@ -310,3 +343,5 @@ I'm always excited to collaborate on innovative projects and discuss the latest 
 **"Building the future, one commit at a time"** 🚀
 
 </div>
+```
+
