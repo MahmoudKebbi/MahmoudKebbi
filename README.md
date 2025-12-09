@@ -97,8 +97,6 @@ currently_learning:
 
 <!-- Animated GitHub Stats -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MahmoudKebbi&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117)](https://git.io/streak-stats)
-
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudKebbi&layout=compact&hide_border=true&title_color=00D9FF&text_color=00D9FF&bg_color=0d1117" />
 
 </div>
