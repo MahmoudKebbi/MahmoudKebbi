@@ -21,7 +21,7 @@ name: Mahmoud Kebbi
 located_in: Beirut, Lebanon
 current_job: Junior DevOps Engineer
 education: Computer Engineering @ Lebanese American University
-company: TEDMOB SAL
+
 
 fields_of_interests:
   - Cloud Computing & Infrastructure
