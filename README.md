@@ -91,15 +91,8 @@ currently_learning:
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-<div align="center">
-
-<!-- Animated GitHub Stats -->
-
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudKebbi&layout=compact&hide_border=true&title_color=00D9FF&text_color=00D9FF&bg_color=0d1117" />
-
-</div>
 
 <!-- GitHub Activity Graph -->
 
@@ -107,11 +100,7 @@ currently_learning:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudKebbi&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Mahmoud's%20Contribution%20Activity" width="100%"/>
 </div>
 
-<!-- Streak Stats -->
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MahmoudKebbi&theme=dark&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" />
-</div>
 
 ---
 
